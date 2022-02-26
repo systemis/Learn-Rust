@@ -1,3 +1,5 @@
+mod learn_struct; 
+
 fn main() {
-    println!("Hello, world!");
+    learn_struct::run();
 }
